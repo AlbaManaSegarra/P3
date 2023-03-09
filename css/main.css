@@ -1,0 +1,29 @@
+#container{
+   display: grid;
+   grid-template-columns:1fr 3fr 1fr 3fr 1fr;
+grid-template-rows:2.5vh 10vh 30vh 5vh 30vh 5vh 10vh 2.5vh;
+}
+#container .titulo{
+  background-color: blanchedalmond;
+  grid-row: 2/3;
+  
+}
+#container .foto1{
+  grid-row: 4/5;
+  grid-column: 2/3;
+  
+}
+#container .foto2{
+  grid-row: 6/7;
+  grid-column: 4/5;
+  
+}
+#container .texto1{
+  grid-row: 4/5;
+  grid-column: 4/5;
+}
+
+img{
+width: 10;
+
+}
