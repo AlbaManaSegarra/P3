@@ -10,7 +10,7 @@ grid-template-rows:2.5vh 10vh 5vh 30vh 5vh 30vh 5vh 10vh 2.5vh;
 }
 #container .foto1{
   grid-row: 4/5;
-  grid-column: 2/3;
+  grid-column: 2/3; text-align: center
 }
 #container .foto2{
   background-color: rgb(226, 236, 255);
