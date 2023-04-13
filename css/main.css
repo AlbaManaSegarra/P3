@@ -14,13 +14,23 @@ text-decoration-line: rgb(0, 0, 0);
 
 .celda3{
   background-color: rgb(159, 209, 255);
+  text-align:center;
 }
 .celda4{
   background-color: rgb(159, 209, 255);
-  text-align: center;
+  text-align:center;
   
 }
 link{
   text-decoration: none;
 }
+.box {
+  border: 1px solid black;
+}
+.container{
+justify-content: space-around
+}
+
+
+
 
