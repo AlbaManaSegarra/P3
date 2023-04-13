@@ -7,19 +7,20 @@ text-decoration-line: rgb(0, 0, 0);
 }
 
 .celda2{
-  background-color: rgb(43, 226, 226);
+  background-color:  rgb(159, 209, 255);
   text-align: center;
   height: 20em;
 }
 
 .celda3{
-  background-color: rgb(226, 43, 98);
+  background-color: rgb(159, 209, 255);
 }
 .celda4{
   background-color: rgb(159, 209, 255);
   text-align: center;
   
 }
-
-
+link{
+  text-decoration: none;
+}
 
